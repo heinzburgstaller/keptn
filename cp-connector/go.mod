@@ -1,6 +1,6 @@
 module github.com/keptn/keptn/cp-connector
 
-go 1.17
+go 1.18
 
 require github.com/keptn/go-utils v0.14.1-0.20220503160417-a0381c53c6d8
 
